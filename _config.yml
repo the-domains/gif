@@ -1,0 +1,28 @@
+name: GIF
+favicon: null
+layout_spectrum: 0.1203318031039089
+typography_spectrum: 0.8308090062346309
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.15584369818679988
+  lightness: 0.8596545120235533
+  saturation: 0.42164685344323516
+  rhythmicContrast: 0.979211641009897
+purpose: []
